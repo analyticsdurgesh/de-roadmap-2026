@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you reuse this roadmap, please credit it as below."
+title: "Data Engineering Roadmap 2026 (India)"
+abstract: "A five-stage data engineering roadmap for learners in India: SQL and Python, data modelling and the warehouse, Spark, Airflow and the lakehouse, streaming and data quality, then projects and interviews. Condensed from the free guides on prepnplaced.com."
+authors:
+  - given-names: Durgesh
+    family-names: Yadav
+    website: "https://www.prepnplaced.com/durgesh-yadav"
+  - name: PrepNPlaced
+    website: "https://www.prepnplaced.com"
+url: "https://www.prepnplaced.com/data-engineering-roadmap-2026"
+repository-code: "https://github.com/analyticsdurgesh/de-roadmap-2026"
+license: CC-BY-4.0
+keywords:
+  - data engineering
+  - roadmap
+  - India
+  - SQL
+  - PySpark
+  - Airflow
+  - dbt
+  - lakehouse
